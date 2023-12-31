@@ -21,7 +21,7 @@ body {
 header{
   z-index: 999;
   position: fixed;
-  width: 130em;
+  width: 137em;
 }
 
 .menu {display: flex;}
@@ -426,7 +426,7 @@ color: #192a56;
 
 @media (max-width:641px){
   header {
-    width: 40em;
+    width: 47em;
   }
   .menu {
     flex-direction: column;
